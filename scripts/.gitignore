@@ -1,0 +1,3 @@
+# Exclude large generated files
+results/datasets/Real_Data_with_CCC_clustering.h5ad
+results/datasets/Real_Data_Improved_Clustering.h5ad
