@@ -27,7 +27,7 @@ git clone https://github.com/wrab12/5461project.git
 cd 5461project
 ```
 
-2. **Create conda environment from requirements.txt**
+2. **Create conda environment from requirements.yml**
 ```bash
 conda env create -f requirements.txt
 ```
