@@ -1,4 +1,4 @@
-name: commot2
+name: commot
 channels:
   - defaults
 dependencies:
