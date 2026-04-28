@@ -24,7 +24,7 @@ results/
 1. **Clone the repository**
 ```bash
 git clone git@github.com:wrab12/5461project.git
-cd 5461project/results
+cd 5461project
 ```
 
 2. **Create conda environment from requirements.txt**
