@@ -23,7 +23,7 @@ results/
 
 1. **Clone the repository**
 ```bash
-git clone git@github.com:wrab12/5461project.git
+git clone https://github.com/wrab12/5461project.git
 cd 5461project
 ```
 
