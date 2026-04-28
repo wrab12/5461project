@@ -29,7 +29,7 @@ cd 5461project
 
 2. **Create conda environment from requirements.yml**
 ```bash
-conda env create -f requirements.txt
+conda env create -f requirements.yml
 ```
 
 3. **Activate the environment**
